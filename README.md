@@ -1,6 +1,6 @@
 ## Vigenere Cracker
 
-#### A very basic vigenere cipher cracker using [Kasiski Examination](https://en.wikipedia.org/wiki/Kasiski_examination) and Frequency Analysis 
+A very basic vigenere cipher cracker using [Kasiski Examination](https://en.wikipedia.org/wiki/Kasiski_examination) and Frequency Analysis 
 
 ## Usage
 
